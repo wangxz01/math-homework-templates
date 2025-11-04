@@ -12,6 +12,8 @@
 
 - `homework_template.typ` - 通用作业模板，包含详细的使用说明和拓扑学示例
 - `README.md` - 项目说明文档
+- `快速开始.md` - 三步上手指南
+- `LICENSE` - MIT 许可证文件
 - `.gitignore` - Git 忽略配置（自动忽略生成的 PDF 文件）
 - `fonts/` - 自定义字体文件夹（可选，详见 `fonts/README.md`）
 
@@ -357,7 +359,9 @@ $boundary(A) = closure(A) inter closure(X without A)$。
 
 ## 📄 许可证
 
-本项目采用 MIT 许可证。你可以自由使用、修改和分发本模板。
+本项目采用 [MIT 许可证](LICENSE)。你可以自由使用、修改和分发本模板。
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 📮 联系方式
 
