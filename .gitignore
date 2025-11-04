@@ -1,0 +1,28 @@
+# Typst 编译产生的文件
+*.pdf
+
+# 临时和备份文件
+*~
+*.bak
+*.swp
+*.swo
+.DS_Store
+
+# IDE 和编辑器
+.vscode/
+.idea/
+*.code-workspace
+
+# 操作系统
+Thumbs.db
+desktop.ini
+
+# 字体文件（通常较大，且可能有版权限制）
+fonts/*.ttf
+fonts/*.otf
+fonts/*.ttc
+fonts/*.woff
+fonts/*.woff2
+# 但保留 fonts 文件夹的 README
+!fonts/README.md
+
